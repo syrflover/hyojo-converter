@@ -1,5 +1,5 @@
 {
-    "name": "VRChatPackageTemplate.Editor",
+    "name": "HyojoConverter.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

@@ -1,0 +1,12 @@
+{
+    "name": "com.syrlee.hyojo-converter",
+    "displayName": "Hyojo Converter",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "Save facial blendshapes to .anim, and apply .anim back to avatar facial",
+    "vrchatVersion": "2022.1.1",
+    "author": {
+        "name": "syrlee",
+        "email": "user@syrflover.co"
+    }
+}
